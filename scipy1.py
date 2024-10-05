@@ -26,3 +26,16 @@ print(f'\nAlpha Particle Mass: {physical_constants["alpha particle mass"]}')
 from scipy.constants import kilo
 
 print(f'\nKilo: {kilo}')
+
+
+#  Convertion of temperature
+
+from scipy.constants import convert_temperature
+
+temp_farenheit = 90
+celsius = convert_temperature(temp_farenheit,"f","c")
+print(f"Celsius: {celsius}")
+
+Kelvin = 90
+rankine = convert_temperature(Kelvin,"k","r")
+print(f"Rankine: {rankine}")
