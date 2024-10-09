@@ -1,4 +1,3 @@
-
 # Math Constants
 
 from pyparsing import alphas
