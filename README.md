@@ -25,3 +25,5 @@
 ## Scipy 2
 ### K- Nearest Neighbour(KNN)
 
+![Screenshot 2024-10-16 052039](https://github.com/user-attachments/assets/0523bf12-ce56-4f5e-8d42-12ee19502e0a)
+
