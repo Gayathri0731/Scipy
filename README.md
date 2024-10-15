@@ -3,6 +3,7 @@
 ## Installation
     pip install scipy
 
+## Scipy-1 output
 ### Math Constants
 
 1. Pi
@@ -20,3 +21,6 @@
 8. m_p - Mass of proton
 9. m_n - Mass of neutron
 10. Avogadro - Avogadro constant
+
+
+## K- Nearest Neighbour(KNN)
