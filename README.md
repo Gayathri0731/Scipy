@@ -22,7 +22,7 @@
 9. m_n - Mass of neutron
 10. Avogadro - Avogadro constant
 
-## Scipy 2
+## Scipy-2
 ### K- Nearest Neighbour(KNN)
 
 ![Knn](https://github.com/user-attachments/assets/25e39ab0-e6fa-49ea-9a80-b89918d26993)
